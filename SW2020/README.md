@@ -2,7 +2,7 @@
 
 Foobar is a Python library for dealing with word pluralization.
 
-## SW 2016 VHF (with 2M 144MHhz FM)
+## SW 2016 VHF (with 2 Meters 144MHhz FM)
 [SW2016VHF](https://drive.google.com/drive/folders/1zDMwkInzh7wXtpPBlDw0jbTRRX4v0E4R)
 
 ```bash
