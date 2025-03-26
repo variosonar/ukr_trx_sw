@@ -1,0 +1,36 @@
+SW 2016 VHF
+
+General Specifications:
+
+Frequency range HF: 30kHz -30 MHz (LSB, USB, CW, CWR, DGU, DGL)
+
+Output power across all bands:
+
+Light mode (LP): 15-18 watts
+High power mode (HP): 40-50 watts
+Power adjustment from zero.
+VHF band: 144 MHz.
+Power on VHF:
+Light mode (LP): 8-10 watts
+High power mode (HP): 18 watts
+Sensitivity on HF:
+Without preamplifier: no worse than 0.5 µV
+With preamplifier: 0.25 µV
+Sensitivity on VHF: better than 0.1 µV
+Dynamic range for blocking on HF: above 100 dB
+Carrier suppression: more than 70 dB
+First IF: 45 MHz with a bandwidth of 15 kHz
+Second IF: 6 MHz with a bandwidth of 2.7 kHz (SSB) and 0.5 kHz (CW). (Bandwidth switchable in any mode)
+Built-in telegraph key with programmable adjustments.
+Control for applying/removing RF during receive-transmit switching.
+Tuning mode and control for an external power amplifier available.
+Idle current consumption in receive mode at 13.5V: 460 mA
+Current consumption during transmission on HF:
+Light mode (LP): 3-4 amps
+High power mode (HP): 8-10 amps
+Current consumption in silent mode during transmission: 1.2 amps
+Dimensions: 175 x 185 x 67 mm
+Weight: approximately 1 kg.
+
+
+

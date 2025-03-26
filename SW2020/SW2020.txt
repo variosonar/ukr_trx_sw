@@ -1,0 +1,19 @@
+SW 2020
+
+General Specifications:
+
+HF frequency range: 1-30 MHz (LSB, USB, CW, CWR, DGU, DGL)
+Output power across all bands: in light mode (LP) 15-18 watts, in high power mode (HP) 40-50 watts. Power adjustable from zero.
+Sensitivity without preamp: no worse than 0.6 µV; with preamp: 0.25 µV.
+Blocking dynamic range: above 100 dB.
+Carrier suppression: more than 60 dB.
+First IF: 45 MHz with a 15 kHz bandwidth.
+Second IF: 6 MHz with a 2.7 kHz bandwidth for SSB and 0.5 kHz for CW (bandwidth switchable in any mode).
+Built-in telegraph key with programmable settings.
+Control for enabling/disabling RF during receive-transmit switching.
+Tuning mode and control for an external amplifier.
+Idle current consumption in receive mode at 13.5V: 200 mA.
+Current consumption during transmission on HF: 3-4 amps in light mode (LP), 10-12 amps in full mode (HP).
+
+
+
