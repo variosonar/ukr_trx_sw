@@ -8,7 +8,7 @@ Foobar is a Python library for dealing with word pluralization.
 ```bash
 General Specifications:
 
-Frequency range HF: 1MHz-30 MHz (LSB, USB, CW, CWR, DGU, DGL) + 144MHz
+Frequency range HF: 0.2-30 MHz (LSB, USB, CW, CWR, DGU, DGL) + 144MHz
 
 Output power across all bands:
 
@@ -45,7 +45,7 @@ Weight: approximately 1 kg.
 ```bash
 General Specifications:
 
-HF frequency range: 1-30 MHz (LSB, USB, CW, CWR, DGU, DGL)
+HF frequency range: 0.2-30 MHz (LSB, USB, CW, CWR, DGU, DGL)
 Output power across all bands: in light mode (LP) 15-18 watts, in high power mode (HP) 40-50 watts. Power adjustable from zero.
 Sensitivity without preamp: no worse than 0.6 µV; with preamp: 0.25 µV.
 Blocking dynamic range: above 100 dB.
