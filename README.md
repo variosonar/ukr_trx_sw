@@ -38,6 +38,8 @@ Current consumption in silent mode during transmission: 1.2 amps
 Dimensions: 175 x 185 x 67 mm
 Weight: approximately 1 kg.
 ```
+![SW2016VHF image](https://github.com/variosonar/ukr_trx_sw/blob/main/SW2016VHF/front.jpg)
+![SW2016VHF image](https://github.com/variosonar/ukr_trx_sw/blob/main/SW2016VHF/front-144.jpg)
 
 ## SW 2020 (with advanced low-pass filters)
 [SW 2020](https://drive.google.com/open?id=1xAZnqPNqE0dv7VPDB1bDDwcZmRus_T9e&usp=drive_fs
