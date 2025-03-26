@@ -2,7 +2,7 @@
 
 Foobar is a Python library for dealing with word pluralization.
 
-## SW 2016 VHF
+## SW 2016 VHF (with 2M 144MHhz FM)
 [SW2016VHF](https://drive.google.com/drive/folders/1zDMwkInzh7wXtpPBlDw0jbTRRX4v0E4R)
 
 ```bash
@@ -39,8 +39,9 @@ Dimensions: 175 x 185 x 67 mm
 Weight: approximately 1 kg.
 ```
 
-## SW 2020
-
+## SW 2020 (with advanced low-pass filters)
+[SW 2020](https://drive.google.com/open?id=1xAZnqPNqE0dv7VPDB1bDDwcZmRus_T9e&usp=drive_fs
+)
 ```bash
 General Specifications:
 
