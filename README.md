@@ -1,7 +1,5 @@
 # Ukrainian Ham Radio Transceivers SW by Alexander Shatun, UR3LMZ
 
-Foobar is a Python library for dealing with word pluralization.
-
 ## SW 2016 VHF (with 2 Meters 144MHhz FM)
 [Video](https://youtu.be/qSxk3W4SFEk)
 
