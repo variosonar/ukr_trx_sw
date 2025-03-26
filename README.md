@@ -61,6 +61,9 @@ Idle current consumption in receive mode at 13.5V: 200 mA.
 Current consumption during transmission on HF: 3-4 amps in light mode (LP), 10-12 amps in full mode (HP).
 ```
 
+![SW2020 image](https://github.com/variosonar/ukr_trx_sw/blob/main/SW2020/front.jpg)
+![SW2020 image](https://github.com/variosonar/ukr_trx_sw/blob/main/SW2020/front-1.jpg)
+
 ## Author email
 
 ur3lmz@gmail.com
