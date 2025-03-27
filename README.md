@@ -71,7 +71,7 @@ Current consumption during transmission on HF: 3-4 amps in light mode (LP), 10-1
 ![SW2020 image](https://github.com/variosonar/ukr_trx_sw/blob/main/SW2020/front.jpg)
 ![SW2020 image](https://github.com/variosonar/ukr_trx_sw/blob/main/SW2020/front-1.jpg)
 
-## Author email
+## Author's email
 
 ur3lmz@gmail.com
 
