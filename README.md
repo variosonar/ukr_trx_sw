@@ -44,7 +44,7 @@ Weight: approximately 1 kg.
 ![SW2016VHF image](https://github.com/variosonar/ukr_trx_sw/blob/main/SW2016VHF/front-144.jpg)
 
 ## SW 2020 (with advanced low-pass filters)
-[Video](https://youtu.be/OKFijoPhjwo)
+[Video](https://youtu.be/miGwtnn9HGI)
 
 and
 
